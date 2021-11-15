@@ -57,9 +57,16 @@ So any scenario which is related the usage of 'Camera + Computer' such as follow
 
 █ Facial Recognition
 
+[Real-Time Face Recognition: An End-to-End Project](https://www.hackster.io/mjrobot/real-time-face-recognition-an-end-to-end-project-a10826)
+
+
 █ Plate/License Recognition
 
+[License Plate Recognition using Raspberry Pi and OpenCV](https://circuitdigest.com/microcontroller-projects/license-plate-recognition-using-raspberry-pi-and-opencv)
+
 █ Object detection, Machine Learnning
+
+[How to Run TensorFlow Lite Object Detection Models on the Raspberry Pi](with Optional Coral USB Accelerator)](https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/blob/master/Raspberry_Pi_Guide.md)
 
 █ Robotic Vision, Drive-assistance 
 
