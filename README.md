@@ -1,6 +1,6 @@
 # XISCAM (Xeovix Integrated Smart Camera) 
 
-### **●  Intro.**
+### **●  Introduction**
 XISCAM is an Integrated Smart Camera sub-project of 'Industrial HATs for Raspberry Pi' which we're developing.
 
 According to the different applications in the field of industry, business, science and education. The XISCAM has 2 models, the Primary and Professional. 
