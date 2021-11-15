@@ -26,7 +26,7 @@ We offer 2 major types of Camera Module, the Automatical Focusing and Fixed Focu
 
 <img src="./pics/pic3-1.jpg" width="224" height="140"/> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="./pics/pic3-2.jpg" width="153" height="183"/> pic3-1    <img src="./pics/pic3-3.jpg" width="138" height="141"/> pic3-2
 
-### **●  Build in 3 Vision Applications for automatics usage**
+### **●  Build in 3 Vision Applications for automatic inspection**
 The XISCAM is based on Raspbian Linux OS, and we have built in our Machine Vision Library and Applications. The user can use these applications for his automatic inspection project directly.
 We offer the 3 applications such as 'Pattern Searching', 'Pattern Matching' and 'Barcode Scanning'. The booting menu is as followed. (see the pic4-1, pic4-2, pic4-3)
 
