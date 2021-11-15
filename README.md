@@ -12,7 +12,7 @@ The XISCAM is combined by 3 major parts,
 2. Camera Module (CMOS Image Sensor)
 3. Interface and Control Module
 
-We offer 2 major types of Camera Module, the Automatical Focusing and Fixed Focusing. An anti-dust cover had been locked on to protect the Automatic Focusing Camera Module, for the Fixed Focusing Module, it needs add-on a C-MOUNT Lens for the Fixed Focusing Camera Module. (see the pic3-1 and pic3-2)
+We offer 2 major types of Camera Module, the Automatical Focusing and Fixed Focusing. An anti-dust cover had been locked to protect the Automatic Focusing Camera Module, for the Fixed Focusing Module, it needs add-on a C-MOUNT Lens for the Fixed Focusing Camera Module. (see the pic3-1 and pic3-2)
 
 ### **●  Build in 3 Vision Applications for automatics usage**
 The XISCAM is based on Raspbian Linux OS, and we have built in our Machine Vision Library and Applications. The user can use these applications for his automatic inspection project directly.
