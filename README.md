@@ -5,7 +5,7 @@ XISCAM is an Integrated Smart Camera sub-project of 'Industrial HATs for Raspber
 
 According to the different applications in the field of industry, business, science and education. The XISCAM has 2 models, the Primary and Professional. 
 
-The Primary model is for education and reasearch, the power source is only support 5V DC. The Professional model support 12~24V DC power source. It is most convenient for the usage of industry and automatics.                 
+The Primary model is for education and research, the power source is only support 5V DC. The Professional model support 12~24V DC power source. It is most convenient for the usage of industry and automatics.                 
 
 The XISCAM is combined by 3 major parts, 
 1. Raspberry Pi CM4
