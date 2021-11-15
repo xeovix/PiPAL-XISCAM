@@ -21,6 +21,9 @@ Pattern Searching
 Pattern Matching
 
 ### **●  Other Applications**
+For the requirement of Industry 4.0, IoT, AI and Machine Learning, the XISCAM has embedded in the most popular tools and protocals such as Python, Node-RED, MQTT, OPC UA, Modbus, and the over 10,000 softwares on internet what are based on OpenSource GPL3.0 License. It makes XISCAM to be updated easily.
+
+In brief, the XISCAM is a product which packs a camera and a micro computer into a small box then call it 'Integrated Smart CAMera'. So any scenario which is related the usage of 'Camera + Computer', the XISCAM may will be your quickest, most effective and economic solution.
 
 ● 應用場域及範例
 簡單而言XISCAM就是一台將攝像機和微型電腦結合在一起的產品，針對工業4.0、物聯網、人工智慧及機器學習等領域的應用，XISCAM除了已內建MQTT、OPC UA外，可直接架接為影像伺服器、影像閘道器等現階段工業物聯網的應用外。因為採取開放原碼GPL3.0的版權基礎，更容易為未來新的協定進行升級或擴充。
@@ -36,8 +39,25 @@ Pattern Matching
 █  車牌辨識
 █  物件辨識、機器學習
 █  機器人視覺、駕駛輔助
-		
 
+
+### **●  Specifications**
+
+|    Model     |              XISCAM-C70              |                XISCAM-P72                 |                XISCAM-I75                 |                XISCAM-I77                 |
+| :----------: | :----------------------------------: | :---------------------------------------: | :---------------------------------------: | :---------------------------------------: |
+|              |                                      |                                           |                                           |                                           |
+|     CPU      | ARM Cortex-A7 (32bit) quad-Core 1GHz | ARM Cortex-A72(v8) 64bit quad-Core 1.5GHz | ARM Cortex-A72(v8) 64bit quad-Core 1.5GHz | ARM Cortex-A72(v8) 64bit quad-Core 1.5GHz |
+|     RAM      |             512 Mb DDR3              |                    1G                     |                    2G                     |                    4G                     |
+|     LAN      |               10/100M                |           Giga bit Ethernet x1            |           Giga bit Ethernet x1            |           Giga bit Ethernet x1            |
+|     WiFi     |          Wi-Fi 802.11b/g/n           |           2.4GHz/5.0GHz 802.11            |           2.4GHz/5.0GHz 802.11            |           2.4GHz/5.0GHz 802.11            |
+|    Serial    |                RS485                 |                   RS232                   |                   RS485                   |                   RS485                   |
+|      DI      |             2 (max 24V)              |                  2 (5V)                   |                3 (max 24V)                |                3 (max 24V)                |
+|      DO      |             4 (max 24V)              |                  4 (5V)                   |                4 (max 24V)                |                4 (max 24V)                |
+|     USB      |                  1                   |                     1                     |                     1                     |                     2                     |
+|     HDMI     |                  1                   |                     1                     |                     1                     |                     1                     |
+|   Storage    |                 16G                  |                    8G                     |                    8G                     |                    16G                    |
+|  Dimension   |          50mm X 50mm X 80mm          |            50mm X 50mm X 65mm             |            50mm X 50mm X 80mm             |            50mm X 50mm X 80mm             |
+| Power Source |              DC 12~24V               |                   DC 5V                   |                 DC 12~24V                 |                 DC 12~24V                 |
 
 
 Model	XISCAM-C70	XISCAM-P72	XISCAM-I75	XISCAM-I77
