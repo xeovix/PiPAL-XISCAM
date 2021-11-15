@@ -35,9 +35,9 @@ So any scenario which is related the usage of 'Camera + Computer' such as follow
 
 █ OnLine tutoring, Live stream
 
-█ Facial Recognization
+█ Facial Recognition
 
-█ Plate/License Recognization
+█ Plate/License Recognition
 
 █ Object detection, Machine Learnning
 
