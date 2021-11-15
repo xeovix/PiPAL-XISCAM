@@ -1,4 +1,4 @@
-#●  XISCAM (Xeovix Integrated Smart Camera) 智能相機簡介：#
+**●  XISCAM (Xeovix Integrated Smart Camera) 智能相機簡介：**
 
 XISCAM 是一台基於樹莓派工業化平台研發計畫所設計完成的整合性智能相機產品。
 
