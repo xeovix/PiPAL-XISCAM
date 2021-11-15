@@ -3,9 +3,14 @@
 ### **●  Introduction**
 XISCAM is an Integrated Smart Camera sub-project of 'Industrial HATs for Raspberry Pi' which we're developing.
 
+<img src="./pics/pic1.jpg"  width = "430"  height = "376" align="center"  />
+
 According to the different applications in the field of industry, business, science and education. The XISCAM has 2 models, the Primary and Professional. 
 
-<img src="./pics/pic1.jpg"  width = "430"  height = "376" align="center"  />
+Primary Model&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Professional Model
+
+<img src="./pics/p72.jpg" width = "215" height = "140" />  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="./pics/i75.jpg" width = "226" height = "140" />
+
 
 The Primary model is for education and research, the power source is only support 5V DC. The Professional model support 12~24V DC power source. It is most convenient for the usage of industry and automatics.                 
 
@@ -19,7 +24,7 @@ The XISCAM is combined by 3 major parts,
 
 We offer 2 major types of Camera Module, the Automatical Focusing and Fixed Focusing. An anti-dust cover had been locked to protect the Automatic Focusing Camera Module, for the Fixed Focusing Module, it needs add-on a C-MOUNT Lens for the Fixed Focusing Camera Module. (see the pic3-1 and pic3-2)
 
-<img src="./pics/pic3-1.jpg" width="224" height="140"/>   <img src="./pics/pic3-2.jpg" width="153" height="183"/> pic3-1    <img src="./pics/pic3-3.jpg" width="138" height="141"/> pic3-2
+<img src="./pics/pic3-1.jpg" width="224" height="140"/> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="./pics/pic3-2.jpg" width="153" height="183"/> pic3-1    <img src="./pics/pic3-3.jpg" width="138" height="141"/> pic3-2
 
 ### **●  Build in 3 Vision Applications for automatics usage**
 The XISCAM is based on Raspbian Linux OS, and we have built in our Machine Vision Library and Applications. The user can use these applications for his automatic inspection project directly.
