@@ -1,2 +1,9 @@
-# PiPAL-SCAM
-PiPAL-SCAM is an Industrial Smart Camera Shield for Raspberry Pi CM4.
+**●  XISCAM (Xeovix Integrated Smart Camera) 智能相機簡介：**
+
+XISCAM 是一台基於樹莓派工業化平台研發計畫所設計完成的整合性智能相機產品。
+
+為了滿足各種工業控制、商業開發、科學運算及教育研究等多面向應用的需要，XISCAM分為入門型及專業型。                 
+
+入門型主要提供教育研究使用，專業型內建12~24V的驅動界面，提供自動控制的工業運用(參考pic1) 
+
+ 
