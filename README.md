@@ -51,6 +51,8 @@ So any scenario which is related the usage of 'Camera + Computer' such as follow
 
 █ Image processing, measuring
 
+[ImageJ: Image analysis and measuring tool](https://imagej.net/imagej-wiki-static/ImageJ1)
+
 █ Distributed Security and Monitoring System, Image Gateway
 
 █ OnLine tutoring, Live stream
@@ -66,7 +68,7 @@ So any scenario which is related the usage of 'Camera + Computer' such as follow
 
 █ Object detection, Machine Learnning
 
-[How to Run TensorFlow Lite Object Detection Models on the Raspberry Pi](with Optional Coral USB Accelerator)](https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/blob/master/Raspberry_Pi_Guide.md)
+[How to Run TensorFlow Lite Object Detection Models on the Raspberry Pi (with Optional Coral USB Accelerator)](https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/blob/master/Raspberry_Pi_Guide.md)
 
 █ Robotic Vision, Drive-assistance 
 
